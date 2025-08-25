@@ -6,4 +6,4 @@ this is a streamlit app that:
  - plot a time series using plotly
 
 
-you can see the app [here](https://aplicativode.streamlit.app/)
+you can see the app [here](https://primeiroprojetoapp-r9emvgkljbjg7euvvszo8d.streamlit.app/)
